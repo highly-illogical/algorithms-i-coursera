@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Percolation",
+            "request": "launch",
+            "mainClass": "Percolation",
+            "projectName": "algorithms-i-coursera_1bc30800"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickFindUF",
+            "request": "launch",
+            "mainClass": "QuickFindUF"
+        }
+    ]
+}
